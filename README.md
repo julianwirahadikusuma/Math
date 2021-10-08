@@ -10,6 +10,8 @@ Curently an undergraduate student (2020-2023) reading Mathematics📚
 - Applied Informatics
 - Graph Theory and Combinatorics
 - Discrete Mathematics
+- Data Structures and Algorithms
+- Data Science and Deep Learning
 - LaTeX, JAVA, Python, R, MATLAB, HTML CSS
 
 Recommended Literature:
