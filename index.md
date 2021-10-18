@@ -1,13 +1,13 @@
 ### Analysis
 
-Real Analysis 
+Real Analysis \\
 Complex Analysis
 
 ### Linear Algebra
 
 ### Discrete Mathematics
 
-Graph Theory
+Graph Theory \\
 Combinatorics
 
 ### ECON 50
